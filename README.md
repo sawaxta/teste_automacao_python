@@ -1,4 +1,4 @@
-Automação de Validação de CNPJs
+# Automação de Validação de CNPJs
 Este projeto implementa uma automação para validação de CNPJs usando o site da 4Devs. O programa recebe uma lista de CNPJs de um arquivo CSV, realiza a consulta para verificar a autenticidade de cada CNPJ, e retorna no terminal se o CNPJ é válido ou inválido. Além disso, o arquivo CSV é atualizado com o status de cada CNPJ.
 
 Requisitos
