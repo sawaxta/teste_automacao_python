@@ -17,7 +17,7 @@ pip install pandas pyautogui pyperclip
 ## Como executar
 Clone o repositório ou baixe o código.
 <br>`
-git clone <URL do repositório>
+git clone https://github.com/sawaxta/teste_automacao_python.git
 `
 
 Instale as dependências. A partir do diretório do projeto, execute o seguinte comando:
