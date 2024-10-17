@@ -30,9 +30,10 @@ Isso instalará todas as bibliotecas necessárias listadas no arquivo `requireme
 Prepare um arquivo CSV com uma coluna chamada cnpj, contendo os CNPJs que deseja validar.
 
 Execute o script Python conforme o exemplo abaixo:
-`
+<br>`
 python validar_cnpj.py
 `
+
 O script abrirá o navegador automaticamente, acessará o site da 4Devs e validará os CNPJs fornecidos.
 
 ## Verifique os resultados:
